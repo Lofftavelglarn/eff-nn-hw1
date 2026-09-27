@@ -1,0 +1,20 @@
+{
+  "latency": {
+    "overhead_s": 0.0003483928412955775,
+    "compute_flops_s": 21432753247315.695,
+    "bandwidth_bytes_s": 293026821861.8487
+  },
+  "energy": {
+    "latency": {
+      "overhead_s": 0.0003483928412955775,
+      "compute_flops_s": 21432753247315.695,
+      "bandwidth_bytes_s": 293026821861.8487
+    },
+    "mean_power_w": 168.13636254757162
+  },
+  "validation_mape_percent": {
+    "latency": 11.4605152411352,
+    "energy": 43.60758285423423,
+    "memory": 51.32177788438277
+  }
+}
